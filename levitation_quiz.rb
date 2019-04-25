@@ -5,5 +5,6 @@ def levitation_quiz
 	break if == "Wingardium Leviosa" # HAS to equal "Wingardium Leviosa"
 	puts "You passed the quiz!"  # only if answere correctly
 end
+end
 
 
